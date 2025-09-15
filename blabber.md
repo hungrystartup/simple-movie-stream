@@ -1,0 +1,2 @@
+Originally, I built this because i was running out of space on my phone, while watching a movie on my pc at work is unprofessional, so intead it would be better to have my pc hidden somewhere while streaming the movie to my device. Also, its easier to carry my device around the office while still watching the movie as long as it remains connected. Even if disconnected, it resumes once i am in my wifi range;
+Thanks for reading.
